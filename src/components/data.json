@@ -1,0 +1,53 @@
+[
+    {
+    "id": 1,
+    "name": "Burtie",
+    "phone": "5242409424531440",
+    "permission": "Admin"
+  }, {
+    "id": 2,
+    "name": "Drake",
+    "phone": "5602252450543937",
+    "permission": "Normal"
+  }, {
+    "id": 3,
+    "name": "Karmen",
+    "phone": "3577090460302381",
+    "permission": "Normal"
+  }, {
+    "id": 4,
+    "name": "Clayton",
+    "phone": "5554895155131594",
+    "permission": "User"
+  }, {
+    "id": 5,
+    "name": "Alfy",
+    "phone": "3545847527176853",
+    "permission": "Admin"
+  }, {
+    "id": 6,
+    "name": "Mei",
+    "phone": "06047126771251241",
+    "permission": "User"
+  }, {
+    "id": 7,
+    "name": "Grenville",
+    "phone": "201472849817349",
+    "permission": "User"
+  }, {
+    "id": 8,
+    "name": "Kizzee",
+    "phone": "3561377433976724",
+    "permission": "Admin"
+  }, {
+    "id": 9,
+    "name": "Dolorita",
+    "phone": "374288624633946",
+    "permission": "Normal"
+  }, {
+    "id": 10,
+    "name": "Kayle",
+    "phone": "4405842856584642",
+    "permission": "Admin"
+  }
+]
